@@ -2,6 +2,10 @@
 
 This project is a web-based implementation of the classic "Simon Says" memory game. It was built as a learning exercise to practice using **jQuery** for DOM manipulation, event handling, and audio playback.
 
+## URL
+
+Hosted version of [SimonSays](https://guillaumeleberrebit.github.io/SimonSays/)
+
 ## Features
 
 - Interactive Simon Says gameplay with four colored buttons
